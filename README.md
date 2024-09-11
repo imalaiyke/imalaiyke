@@ -9,8 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
----
+<br>
 
 Innovative **Azure AI Architect** with over a decade of experience dedicated to shaping the future of technology through strategic solutions. I excel in driving business growth by integrating cutting-edge AI technologies into **Azure Cloud Architecture**.
 
@@ -22,7 +21,7 @@ My technical leadership extends across various domains, including:
 - **Cloud Platform Optimization** & **Architecture Improvements**
 - **Emerging Technology Evaluation**
 
----
+<br>
 
 ### 🔭 Current Focus
 - Working on **AI and Cloud Projects** involving **Azure Cloud** and **Machine Learning** technologies.
@@ -37,7 +36,7 @@ My technical leadership extends across various domains, including:
 ### 📧 Reach Out
 - Feel free to email me: [imalaiyke@gmail.com](mailto:imalaiyke@gmail.com)
 
----
+<br>
 
 ## ⚒️ Technology Skills
 - **Programming/ML Libraries**: Python, SQL, Linux, Keras, Scikit-Learn, TensorFlow, Numpy
@@ -45,12 +44,12 @@ My technical leadership extends across various domains, including:
 - **Data Analytics**: Power BI, Databricks, Data Factory, Exploratory Data Analysis
 - **Development & Operations**: GitHub Action CI/CD, Google-Colab, VS Code
 
----
+<br>
 
 ## 💻 Tools & Technologies
 ![Tech Stack](https://skillicons.dev/icons?i=python,mysql,github,tensorflow,linux,vscode)
 
----
+<br>
 
 ## 📊 GitHub Stats
 ![Ike Imala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imalaiyke&show_icons=true&theme=radical)
