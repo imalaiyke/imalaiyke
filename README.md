@@ -22,7 +22,7 @@ My technical leadership extends across various domains, including:
 - **Emerging Technology Evaluation**
 
 ### 🔭 Current Focus
-- Working on **AI and Cloud Projects** involving **Azure Cloud** and **Machine Learning** technologies.
+- **AI and Cloud Projects** involving **Azure Cloud** and **Machine Learning** technologies.
 
 ### 🌱 Always Learning
 - Diving deeper into **Artificial Intelligence** and **Cloud Architecture**.
