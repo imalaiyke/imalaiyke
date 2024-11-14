@@ -11,7 +11,7 @@
 </div>
 <br>
 
-Innovative **Azure AI Architect** with over a decade of experience dedicated to shaping the future of technology through strategic solutions. I excel in driving business growth by integrating cutting-edge AI technologies into **Azure Cloud Architecture**.
+Innovative **Azure AI Architect and Technology Solutions Expert** with over a decade of experience dedicated to shaping the future of technology through strategic solutions. I excel in driving business growth by integrating cutting-edge AI technologies into **Azure Cloud Architecture**.
 
 I’m passionate about leveraging **GenAI, OpenAI - GPT, Azure AI Services, Azure AI Search, Azure Cognitive Services**, and **AzureML** to drive digital transformation and solve real-world challenges. I've led cross-functional teams, ensuring the implementation of digital solutions and best practices and delivering customized solutions aligned with business goals.
 
