@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Ike Imala
-### Azure AI Architect | Technology Solution Expert | AI Enthusiast
+### AI Architect | Technology Solution Expert | AI Enthusiast
 
 <div align="left"> 
   <a href="mailto:imalaiyke@gmail.com" target="_blank">
